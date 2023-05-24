@@ -5,4 +5,4 @@ Firstly, `convert.php` will run the process and it goes in `perch/templates/blog
 
 Secondly, the process uses `_convert-posts.html` as the Perch template to create the Kirby text files in `/convertedposts`. In my case, I have `_convert-posts.html` in `perch/templates/blog/_hidden` but you can put it wherever you want. Just make sure that `_convert-posts.html` is in the correct location before you run `convert.php`.
 
-With big thanks to Nils Mielke who wrote the initial script that I have adapted for my own use.
+With big thanks to (Nils Mielke)[https://feuerwasser.de] who wrote the initial script that I have adapted for my own use.
